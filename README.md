@@ -1,7 +1,7 @@
 # EthicalHackingPython
 
 # Disclaimer
-These tools are used for educational purposes I am not responsible for your actions.
+These tools are used for educational purposes only I am not responsible for your actions.
 
 ## Deployment
 To deploy this project run
