@@ -10,4 +10,4 @@ To deploy this project run
   python3 tools.py
 ```
 # Note 
-This project is not finished I will be adding more tools feel free to contribute.
+This project is not fully finished I will be adding more tools feel free to contribute.
